@@ -1,0 +1,15 @@
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\bin\Debug\net7.0\032 Parkschein Automat.exe
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\bin\Debug\net7.0\032 Parkschein Automat.deps.json
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\bin\Debug\net7.0\032 Parkschein Automat.runtimeconfig.json
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\bin\Debug\net7.0\032 Parkschein Automat.dll
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\bin\Debug\net7.0\032 Parkschein Automat.pdb
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.csproj.AssemblyReference.cache
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.dll
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\refint\032 Parkschein Automat.dll
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.pdb
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\032 Parkschein Automat.genruntimeconfig.cache
+C:\Users\henry\Dropbox\Htl Leonding\Progammieren\032 Parkschein Automat\obj\Debug\net7.0\ref\032 Parkschein Automat.dll

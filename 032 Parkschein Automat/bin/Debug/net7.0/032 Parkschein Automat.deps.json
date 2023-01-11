@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "032 Parkschein Automat/1.0.0": {
+        "runtime": {
+          "032 Parkschein Automat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "032 Parkschein Automat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
